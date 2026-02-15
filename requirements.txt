@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+tensorflow==2.14.1
+keras
+pandas
+numpy
+datetime
+matplotlib
+yfinance
+gunicorn
